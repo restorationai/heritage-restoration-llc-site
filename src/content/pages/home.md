@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Heritage Restoration LLC | Restoration Services in Little Falls, MN"
-h1: "Restoration Services in Little Falls"
-meta_description: "Heritage Restoration LLC provides water, fire, mold, and storm damage restoration across Little Falls and surrounding areas. Licensed, insured, IICRC-certified. Call (320) 733-8868."
-primary_keyword: "restoration services little falls"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Little Falls, MN | Heritage Restoration LLC"
+h1: "Water Damage Restoration in Little Falls, MN"
+meta_description: "Heritage Restoration LLC provides water damage restoration in Little Falls, MN. IICRC certified. Call (320) 733-8868 now."
+primary_keyword: "water damage restoration little falls"
+secondary_keywords: ["best restoration company in little falls", "restoration company little falls", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "800abf468f9c187d"
